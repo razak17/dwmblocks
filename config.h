@@ -5,7 +5,7 @@ static const Block blocks[] = {
 
     // {" 🔺 ", "dt-upt", 60, 2},
     {"  ", "sb-pacpackages", 0, 8},
-    {"📦 ", "sb-installed", 0, 17},
+    // {"📦 ", "sb-installed", 0, 17},
     // {"", "sb-cpu", 10, 17},
     {"", "sb-cpusage", 2, 18},
     // {"", "sb-disk", 10, 21},
